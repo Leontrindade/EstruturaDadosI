@@ -32,5 +32,8 @@
 
 ## Questão
 - Imagine que estamos percorrendo uma lista simples e, depois de avançar dois nós, decidimos voltar ao no anterior - como fariamos isso?
+R: [5] -> [10] -> [20] -> NULL
 - R: É preciso reinicar a lista e percorrer ela ate chegar ao elemento desejado
+
+
 
